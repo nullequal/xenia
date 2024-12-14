@@ -14,6 +14,7 @@
 #include <map>
 #include <string>
 #include <vector>
+#include <iostream>
 
 #include "third_party/cpptoml/include/cpptoml.h"
 #include "third_party/cxxopts/include/cxxopts.hpp"
